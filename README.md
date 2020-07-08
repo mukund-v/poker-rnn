@@ -2,7 +2,7 @@
 
 Thank you to the developers of [RLCard](https://github.com/datamllab/rlcard) for a great platform to develop agents and for the great examples!
 
-Our file structure is layed out in the following manner
+The file structure is layed out in the following manner
 
 ```
 + root
